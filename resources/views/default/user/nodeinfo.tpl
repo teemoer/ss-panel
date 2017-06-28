@@ -32,7 +32,7 @@
                     <!-- /.box-body -->
                 </div>
                 <!-- /.box -->
-                <div class="box box-solid">
+                <div class="box box-solid hidden">
                     <div class="box-header">
                         <i class="fa fa-code"></i>
 
@@ -72,7 +72,7 @@
             </div>
             <!-- /.col (right) -->
         </div>
-        <div class="row">
+        <div class="row hidden">
             <div class="col-md-12">
                 <div class="box box-solid">
                     <div class="box-header">
